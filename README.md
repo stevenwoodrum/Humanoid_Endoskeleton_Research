@@ -2,7 +2,7 @@
 
 **Summer 2015**
 
-![Piper, my first HR-OS1 build](../blob/master/Piper-and-Me.jpg?raw=true)
+![Piper, my first HR-OS1 build](../master/Piper-and-Me.jpg)
 
 A small undergraduate cohort tested and integrated software on the HR-OS1 robot beta-released by [Trossen Robotics](http://www.trossenrobotics.com/HR-OS1).  Personal successes include connecting publicly available speech generation and vision modules to the robot's open-source Linux framework.
 
